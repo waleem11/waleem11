@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waleem11
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on github
 - 📫 Reach me at github.com/waleem11
 
